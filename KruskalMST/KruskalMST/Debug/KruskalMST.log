@@ -1,0 +1,3 @@
+﻿  KruskalMST.cpp
+c:\users\akhil reddy\onedrive - texas a&m university\data science projects\c++ dsa\kruskalmst\kruskalmst\kruskalmst.cpp(78): error C2440: 'initializing': cannot convert from 'int (__thiscall Graph::* )(void)' to 'unsigned int'
+  c:\users\akhil reddy\onedrive - texas a&m university\data science projects\c++ dsa\kruskalmst\kruskalmst\kruskalmst.cpp(78): note: There is no context in which this conversion is possible
